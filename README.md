@@ -24,7 +24,7 @@ Welcome to my portfolio! This site is a curated collection of my projects and ex
 - [ ] Add more sections, such as an about me or interests section
 
 ## How to Run
-You can view my portfolio [here]() or run a clone of this repository on your local device.
+You can view my portfolio [here](https://www.maraliwayway.com/) or run a clone of this repository on your local device.
 1. Clone this repository
 2. Navigate to the repository's directory, and run `npm install`
 3. Next, run the development server:
