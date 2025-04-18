@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 
 export const metadata = {
   title: "Mara Liwayway David",
-  description: "Explore the portfolio of Mara",
+  description: "A curated collection of my projects and experiences.",
 };
 
 export default function RootLayout({ children }) {
