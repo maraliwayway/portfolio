@@ -8,11 +8,20 @@
 ![Experience section](demo-pictures/experience.png)
 *Figure 2. Experience section*
 
-Welcome to my portfolio repository! This portfolio helps you to learn more about me through my projects and experiences. 
+Welcome to my portfolio! This site is a curated collection of my projects and experiences.
 
 ## Technologies Used
 - Next.js with JavaScript
 - Tailwind CSS
+
+## Future Improvements
+- [ ] Toggable dark and light mode
+- [ ] Simple animations 
+- [ ] Double check accuracy of alt text for accessibility
+- [ ] Add more projects and experiences as I go
+- [ ] Conduct usability tests to gauge future improvements
+- [ ] Experiment with more unique or interactive design elements
+- [ ] Add more sections, such as an about me or interests section
 
 ## How to Run
 You can view my portfolio [here]() or run a clone of this repository on your local device.
@@ -30,7 +39,3 @@ pnpm dev
 bun dev
 ```
 4. Open [http://localhost:3000](http://localhost:3000) (if not occupied already) with your browser to see the result!
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
