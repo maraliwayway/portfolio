@@ -6,7 +6,7 @@
 *Figure 2. Projects section*
 
 ![Experience section](demo-pictures/experience.png)
-*Figure 2. Experience section*
+*Figure 3. Experience section*
 
 Welcome to my portfolio! This site is a curated collection of my projects and experiences.
 
