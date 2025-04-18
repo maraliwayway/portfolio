@@ -18,7 +18,7 @@ export default function Home() {
           </h1>
 
           <h2 className="text-xl sm:text-2xl leading-relaxed text-[color:var(--foreground)]">
-            Hi! I'm Mara, a Computing Science student at SFU. I'm passionate about teaching, diversity in tech, and software
+            Hi! I&apos;m Mara, a Computing Science student at SFU. I&apos;m passionate about teaching, diversity in tech, and software
             development.
           </h2>
 
