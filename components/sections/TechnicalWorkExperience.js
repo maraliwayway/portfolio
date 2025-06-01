@@ -9,8 +9,8 @@ export default function WorkExperience({ experiences }) {
           <ExperienceCard 
             key={index} 
             experience={experience} 
-            imageObjectFit="contain"
-            imagePadding="p-4"
+            imageObjectFit="cover"
+            imagePadding=""
           />
         ))}
       </div>
