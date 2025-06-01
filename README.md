@@ -17,6 +17,7 @@ Welcome to my portfolio! This site is a curated collection of my projects and ex
 ## Future Improvements
 - [ ] Toggable dark and light mode
 - [ ] In-depth documentation for my projects
+- [ ] Improve image rendering
 - [ ] Simple animations 
 - [ ] Double check accuracy of alt text for accessibility
 - [ ] Add more projects and experiences as I go
