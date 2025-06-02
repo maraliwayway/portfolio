@@ -1,12 +1,17 @@
 # Portfolio
-![Homepage](demo-pictures/home.png)
+*Last update: June 1, 2025*
+
+![Homepage](demo-pictures/home.v1.png)
 *Figure 1. Homepage*
 
-![Projects section](demo-pictures/projects.png)
-*Figure 2. Projects section*
+![About Mara section](demo-pictures/about.v1.png)
+*Figure 2. About Mara*
 
-![Experience section](demo-pictures/experience.png)
-*Figure 3. Experience section*
+![Projects section](demo-pictures/projects.v1.png)
+*Figure 3. Projects section*
+
+![Experience section](demo-pictures/experience.v1.png)
+*Figure 4. Experience section*
 
 Welcome to my portfolio! This site is a curated collection of my projects and experiences.
 
@@ -23,7 +28,7 @@ Welcome to my portfolio! This site is a curated collection of my projects and ex
 - [ ] Add more projects and experiences as I go
 - [ ] Conduct usability tests to gauge future improvements
 - [ ] Experiment with more unique or interactive design elements
-- [ ] Add more sections, such as an about me or interests section
+✅ ~~- [ ] Add more sections, such as an about me or interests section~~ 
 
 ## How to Run
 You can view my portfolio [here](https://www.maraliwayway.com/) or run a clone of this repository on your local device.
