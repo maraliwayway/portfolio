@@ -5,19 +5,14 @@ export default function About() {
   return (
     <MainLayout>
       <div className="">
-        {/* Header Section */}
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-[color:var(--heading)] mb-4">About Mara</h1>
           <p className="text-lg text-[color:var(--foreground)] max-w-2xl mx-auto">
           This is real, this is me! 🎤
-
           </p>
         </div>
 
-        {/* Main Content */}
         <div className="space-y-12">
-          {/* My Journey Section */}
-
           <section className="bg-white rounded-lg shadow-md border border-gray-100 p-8">
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div className="space-y-4 text-[color:var(--foreground)]">
