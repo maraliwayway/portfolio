@@ -28,7 +28,7 @@ Welcome to my portfolio! This site is a curated collection of my projects and ex
 - [ ] Add more projects and experiences as I go
 - [ ] Conduct usability tests to gauge future improvements
 - [ ] Experiment with more unique or interactive design elements
-- ✅ Add more sections, such as an about me or interests section~~ 
+- [✅] Add more sections, such as an about me or interests section
 
 ## How to Run
 You can view my portfolio [here](https://www.maraliwayway.com/) or run a clone of this repository on your local device.
