@@ -11,6 +11,12 @@ export default function Header() {
       </Link>
       <Link
         className="flex items-center gap-2 hover:underline hover:underline-offset-4 transition-all duration-200"
+        href="/about"
+      >
+        About Mara
+      </Link>
+      <Link
+        className="flex items-center gap-2 hover:underline hover:underline-offset-4 transition-all duration-200"
         href="/projects"
       >
         Projects

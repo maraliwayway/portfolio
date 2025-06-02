@@ -13,7 +13,7 @@ export const technicalWorkExperiences = [
       duration: "May 2024 - Present",
       company: "SFU Science Alive",
       description:
-        "Led a week-long AI/ML camp for 40+ students in grades 7–9. Led code-alongs and created presentation slides for coding workshops aimed at middle and high school students, covering topics like Turtle Graphics, Intro to Data Science, AI in Cybersecurity, Git, Web Development, and the Terminal.",
+        "Led code-alongs and created presentation slides for coding workshops aimed at middle and high school students, covering topics like Turtle Graphics, Intro to Data Science, AI in Cybersecurity, Git, Web Development, and the Terminal.",
       image: "/experience/sfu-science-alive.jpeg",
     },
     {
