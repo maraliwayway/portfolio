@@ -16,7 +16,7 @@ export const socialLinks = [
       text: "Email",
       icon: "/icons/email.png",
       onClick: () => {
-        navigator.clipboard.writeText("mld18@sfu.ca")
+        navigator.clipboard.writeText("mara_liwayway_david@sfu.ca")
           .then(() => alert("Email copied to clipboard!"))
           .catch((err) => console.error("Failed to copy: ", err));
       },
