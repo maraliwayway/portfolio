@@ -25,10 +25,10 @@ export default function About() {
                 Hi! I’m Mara, an upcoming third-year Computing Science student at Simon Fraser University. I first got into coding through Hackergal’s 4th annual hackathon in grade eight, and immediately fell in love with programming. That experience also sparked my passion for mentorship, which led me to become a coding instructor so I could help others discover the same excitement I felt early on.
                 </p>
                 <p>
-                Beyond the classroom, I’ve taught coding workshops for SFU Science Alive, hackathons, and outreach events. I've also actively supported community outreach as a Student Ambassador for the Faculty of Applied Sciences and Co-President of SFU Women in Computing Science.
+                Beyond the classroom, I’ve taught coding workshops for SFU Science Alive, hackathons, and outreach events. I&rsquo;ve also actively supported community outreach as a Student Ambassador for the Faculty of Applied Sciences and Co-President of SFU Women in Computing Science.
                 </p>
                 <p>
-                My current focus is on enhancing my full-stack web development skills, alongside exploring AI/ML through AI4Good Lab. I’m currently looking for co-op or internship opportunities where I can keep learning, build impactful tools, and grow alongside like-minded teams. If you're interested in collaborating, feel free to contact me :D
+                My current focus is on enhancing my full-stack web development skills, alongside exploring AI/ML through AI4Good Lab. I’m currently looking for co-op or internship opportunities where I can keep learning, build impactful tools, and grow alongside like-minded teams. If you&rsquo;re interested in collaborating, feel free to contact me :D
                 </p>
               </div>
               <div className="relative w-full h-full rounded-lg overflow-hidden shadow-lg">
@@ -39,7 +39,7 @@ export default function About() {
          
                 <Image
                     src="/about/me.JPG"
-                    alt="Mara's journey in tech"
+                    alt="Mara&rsquo;s journey in tech"
                     fill
                     sizes="(max-width: 768px) 100vw, 50vw"
                     className="object-cover"
@@ -77,7 +77,7 @@ export default function About() {
                   <div>
                     <h3 className="text-xl font-medium text-[color:var(--heading)] mb-2">Singing</h3>
                     <p className="text-[color:var(--foreground)]">
-                      Growing up in a Filipino family and community, I was always amazed by how so many of my people are breathtaking vocalists! I performed in Concert and Jazz Choir in high school, and sang in Church settings as well. Slowly (but surely), I developed my vocal technique and I'm confident in singing with people and in front of huge audiences. I'm always down for a Karaoke night, so let me know if you want to hang. In the photo above, I'm singing at a school event!
+                      Growing up in a Filipino family and community, I was always amazed by how so many of my people are breathtaking vocalists! I performed in Concert and Jazz Choir in high school, and sang in Church settings as well. Slowly (but surely), I developed my vocal technique and I&rsquo;m confident in singing with people and in front of huge audiences. I&rsquo;m always down for a Karaoke night, so let me know if you want to hang. In the photo above, I&rsquo;m singing at a school event!
                     </p>
                   </div>
                 </div>
@@ -111,7 +111,7 @@ export default function About() {
                   <div>
                     <h3 className="text-xl font-medium text-[color:var(--heading)] mb-2">Playing the Guitar</h3>
                     <p className="text-[color:var(--foreground)]">
-                    I’m still a beginner at guitar and working on getting the basics down, but I picked it up so I could accompany myself while singing. It's definitely a challenge (especially on the fingers, ouch!), but I’m excited to keep improving little by little. For now, I'm learning chords, practicing simple songs, and trying to build muscle memory.
+                    I’m still a beginner at guitar and working on getting the basics down, but I picked it up so I could accompany myself while singing. It&rsquo;s definitely a challenge (especially on the fingers, ouch!), but I’m excited to keep improving little by little. For now, I&rsquo;m learning chords, practicing simple songs, and trying to build muscle memory.
                     </p>
                   </div>
                 </div>
