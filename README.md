@@ -25,8 +25,7 @@ Welcome to my portfolio! This site is a curated collection of my projects and ex
 - [ ] Improve image rendering
 - [ ] Simple animations 
 - [ ] Double check accuracy of alt text for accessibility
-- [ ] Add more projects and experiences as I go
-- [ ] Conduct usability tests to gauge future improvements
+- [x] Add more projects and experiences as I go 
 - [ ] Experiment with more unique or interactive design elements
 - [x] Add more sections, such as an about me or interests section
 
