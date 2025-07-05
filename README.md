@@ -1,16 +1,16 @@
 # Portfolio
-*Last update: June 1, 2025*
+*Last update: July 5, 2025*
 
 ![Homepage](demo-pictures/home.v1.png)
 *Figure 1. Homepage*
 
-![About Mara section](demo-pictures/about.v1.png)
+![About Mara section](demo-pictures/about.v2.png)
 *Figure 2. About Mara*
 
-![Projects section](demo-pictures/projects.v1.png)
+![Projects section](demo-pictures/projects.v2.png)
 *Figure 3. Projects section*
 
-![Experience section](demo-pictures/experience.v1.png)
+![Experience section](demo-pictures/experience.v2.png)
 *Figure 4. Experience section*
 
 Welcome to my portfolio! This site is a curated collection of my projects and experiences.
