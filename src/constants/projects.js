@@ -1,11 +1,11 @@
 // src/constants/projects.js
 export const projects = [
   {
-    tags: ["Python", "Pandas", "PyTorch", "Matplotlib", "Machine Learning"],
-    title: "Sidekick",
+    tags: ["Python", "Pandas", "NumPy", "Scikit-learn", "React Native", "TypeScript", "FastAPI"],
+    title: "sidekick",
     description:
-      "Coming soon...",
-    image: "/projects/sidekick.jpg",
+      "Full-stack AI/ML health companion app that reduces health anxiety by translating vitamin data into plain language using EasyOCR and Gemma 2B and predicting harmful drug interactions with Random Forest model on the TwoSIDES dataset.",
+    image: "/projects/sidekick.png",
     moreInfoLink: "",
     githubLink: "",
   },

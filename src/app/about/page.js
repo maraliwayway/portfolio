@@ -7,9 +7,6 @@ export default function About() {
       <div className="">
         <div className="text-center mb-12">
           <h1 className="text-4xl font-bold text-[color:var(--heading)] mb-4">About Mara</h1>
-          <p className="text-lg text-[color:var(--foreground)] max-w-2xl mx-auto">
-          This is real, this is me! 🎤
-          </p>
         </div>
 
         <div className="space-y-12">
@@ -23,7 +20,7 @@ export default function About() {
                 Beyond the classroom, I’ve taught coding workshops for SFU Science Alive, hackathons, and outreach events. I&rsquo;ve also actively supported community outreach as a Student Ambassador for the Faculty of Applied Sciences and Co-President of SFU Women in Computing Science.
                 </p>
                 <p>
-                My current focus is on enhancing my full-stack web development skills, alongside exploring AI/ML through AI4Good Lab. I’m currently looking for co-op or internship opportunities where I can keep learning, build impactful tools, and grow alongside like-minded teams. If you&rsquo;re interested in collaborating, feel free to contact me :D
+                My current focus is on enhancing my full-stack web development and AI/ML skills. I’m currently looking for co-op or internship opportunities where I can keep learning, build impactful tools, and grow alongside like-minded teams. If you&rsquo;re interested in collaborating, feel free to contact me :D
                 </p>
               </div>
               <div className="relative w-full h-full rounded-lg overflow-hidden shadow-lg">

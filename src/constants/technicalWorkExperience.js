@@ -1,8 +1,8 @@
 // src/constants/technicalWorkExperiences.js
 export const technicalWorkExperiences = [
   {
-    title: "Machine Learning Trainee",
-    duration: "May 2025 - Present",
+    title: "Machine Learning Fellow",
+    duration: "May 2025 - Jun 2025",
     company: "AI4Good Lab",
     description:
       "Enrolled in a 7-week program focusing on building core AI/ML skills through hands-on projects, mentorship, and ethical AI design.",
