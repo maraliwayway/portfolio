@@ -1,6 +1,14 @@
 // src/constants/extracurricularExperiences.js
 export const extracurricularExperiences = [
-    {
+  {
+    title: "Software Developer",
+    duration: "Jun 2025 - Present",
+    company: "SFU Blueprint",
+    description:
+      "Helped develop a website for Reel Youth (media empowerment NPO) to build a more diverse audience and a central place to distribute information among the community.",
+    image: "/experience/blueprint.png",
+  },  
+  {
       title: "Co-President",
       duration: "May 2025 - Present",
       company: "SFU Women in Computing Science (WiCS)",
