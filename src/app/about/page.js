@@ -12,17 +12,23 @@ export default function About() {
         <div className="space-y-12">
           <section className="bg-white rounded-lg shadow-md border border-gray-100 p-8">
             <div className="grid md:grid-cols-2 gap-8 items-center">
-              <div className="space-y-4 text-[color:var(--foreground)]">
-                <p>
-                Hi! I’m Mara, an upcoming third-year Computing Science student at Simon Fraser University. I first got into coding through Hackergal’s 4th annual hackathon in grade eight, and immediately fell in love with programming. That experience also sparked my passion for mentorship, which led me to become a coding instructor so I could help others discover the same excitement I felt early on.
-                </p>
-                <p>
-                Beyond the classroom, I’ve taught coding workshops for SFU Science Alive, hackathons, and outreach events. I&rsquo;ve also actively supported community outreach as a Student Ambassador for the Faculty of Applied Sciences and Co-President of SFU Women in Computing Science.
-                </p>
-                <p>
-                My current focus is on enhancing my full-stack web development and AI/ML skills. I’m currently looking for co-op or internship opportunities where I can keep learning, build impactful tools, and grow alongside like-minded teams. If you&rsquo;re interested in collaborating, feel free to contact me :D
-                </p>
-              </div>
+            <div className="space-y-4 text-[color:var(--foreground)]">
+              <p>
+                Hi! I'm Mara, an undergraduate Computing Science student at Simon Fraser University. I first got into coding through Hackergal's 4th annual hackathon in grade eight, and immediately fell in love with programming. That experience also sparked my passion for mentorship, which led me to become a coding instructor so I could help others discover the same excitement I felt early on.
+              </p>
+              <p>
+                From building RedactAI, a local-first AI security tool I solo-developed in 24 hours at a TELUS-sponsored national hackathon competing against 180+ teams, to rebuilding nonprofit web platforms for 7,400+ users as a Software Developer with SFU Blueprint, I've had the chance to work on projects I'm really proud of.
+              </p>
+              <p>
+                Outside of technical work, I serve as President of SFU Women in Computing Science, leading a team of 13 to support 600+ students across the faculty. I've also taught coding workshops for SFU Science Alive, hackathons, and outreach events, and represented the Faculty of Applied Sciences as a Student Ambassador.
+              </p>
+              <p>
+                I'm currently working as a Machine Learning Software Engineer Co-op student at the Royal Bank of Canada (RBC), where I'll be finishing my term at the end of Summer 2026.
+              </p>
+              <p>
+              I'm currently seeking Fall 2026 co-op opportunities, particularly in Machine Learning, where I can continue building impactful AI systems and infrastructure, and grow alongside passionate teams. If you're interested in collaborating, feel free to reach out!
+              </p>
+            </div>
               <div className="relative w-full h-full rounded-lg overflow-hidden shadow-lg">
            
                 <div className="w-full h-100 bg-gray-100 flex items-center justify-center text-gray-500">

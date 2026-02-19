@@ -18,8 +18,7 @@ export default function Home() {
           </h1>
 
           <h2 className="text-xl sm:text-2xl leading-relaxed text-[color:var(--foreground)]">
-            Hi! I&apos;m Mara, a Computing Science student at SFU. I&apos;m passionate about teaching, diversity in tech, and software
-            development.
+            Hi! I&apos;m Mara, a Computing Science student at SFU. I&apos;m passionate about machine learning, teaching, and community development.
           </h2>
 
           <div className="flex gap-6 items-center justify-center md:justify-start mt-2">
