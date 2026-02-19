@@ -22,7 +22,7 @@ export const projects = [
     description:
       "Full-stack AI/ML health companion app that reduces health anxiety by translating vitamin data into plain language using EasyOCR and Gemma 2B and predicting harmful drug interactions with Random Forest model on the TwoSIDES dataset.",
     image: "/projects/sidekick.png",
-    githubLink: "",
+    githubLink: "https://github.com/maraliwayway/sidekick",
   },
   {
     tags: ["Next.js", "Tailwind CSS", "JavaScript", "Affinda API", "OpenAI API"],
